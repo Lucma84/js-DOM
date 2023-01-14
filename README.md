@@ -4,8 +4,8 @@ Iniciacion a Javascript-DOM.
 
 - Selectores.
 - Eventos.
-- Window Events.
-- Tag Manipulation.
-- Tag Templates.
-- Intervals
-- Whack-a-poer Game
+- Eventos de ventana.
+- Manipulacion de Tags
+- Tags.
+- Intervalos
+- Juego Whack-a-power 
